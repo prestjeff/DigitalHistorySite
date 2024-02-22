@@ -4,7 +4,7 @@ title: New Page
 permalink: /new-page/
 ---
 
-This is a new page, not to be confused with the old page.
+This is a new page, not to be confused with the old page. There is new data here that was not there before.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
