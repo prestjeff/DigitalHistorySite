@@ -23,7 +23,7 @@ email: jeffpreston@unomaha.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A website for the purposes of completing a project in UNO's HIST 8916 - Digital History course
 baseurl: "/DigitalHistorySite" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "prestjeff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jefprest
 github_username:  prestjeff
 
